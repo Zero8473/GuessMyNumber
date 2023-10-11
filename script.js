@@ -54,3 +54,4 @@ document.querySelector('.again').addEventListener('click', function () {
   document.querySelector('body').style.backgroundColor = '#222';
   document.querySelector('.guess').value = '';
 });
+console.log(owo);
